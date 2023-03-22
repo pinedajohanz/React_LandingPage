@@ -26,7 +26,7 @@ export default function Landing() {
                     <div className='form-layout'>
                         <div className='form-container'>
                             <p className='sign-in-txt'> Sign in with</p>
-                            <div className='social-icons'>
+                            <div className='social-login'>
                                 <span><FaFacebook size={20} /></span>
                                 <span><FaTwitter size={20} /></span>
                                 <span><FaGithub size={20} /></span>
